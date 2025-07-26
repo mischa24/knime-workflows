@@ -1,6 +1,8 @@
 # 🧪 KNIME Projects – Coursework Exercises
 
 ![Release](https://img.shields.io/github/v/release/mischa24/knime-workflows)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Made with KNIME](https://img.shields.io/badge/made%20with-KNIME-yellow)
 
 This repository contains 4 mini-projects developed using the **KNIME Analytics Platform**, as part of academic assignments.  
 Each project is stored in a dedicated folder, along with its KNIME workflow files and relevant screenshots.

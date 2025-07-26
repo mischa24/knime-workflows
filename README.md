@@ -1,45 +1,51 @@
-# 🧩 KNIME Workflows
+# 🧪 KNIME Projects – Coursework Exercises
 
-This repository contains a collection of data analytics workflows created using KNIME Analytics Platform.  
-The workflows focus on various aspects of the data pipeline — from cleaning and transformation to visualization and basic machine learning.
-
----
-
-## 🔍 Topics Covered
-
-- 🧹 Data cleaning & preprocessing
-- 🧮 Aggregations, joins, and filtering
-- 📈 Data visualization
-- 🧠 Introduction to machine learning models (e.g. decision trees)
-- 🔄 Automation of repetitive tasks
-- 📊 Integration with Excel, CSV, and databases
+This repository contains 4 mini-projects developed using the **KNIME Analytics Platform**, as part of academic assignments.  
+Each project is stored in a dedicated folder, along with its KNIME workflow files and relevant screenshots.
 
 ---
 
-## 📂 Workflow List (Coming Soon)
+## 📂 Contents
 
-| Workflow Name             | Description                                        |
-|---------------------------|----------------------------------------------------|
-| `Customer Segmentation`   | Clustering customers based on purchasing behavior  |
-| `Sales Analysis`          | Combining and analyzing sales data across regions  |
-| `Data Cleaning Pipeline`  | Standardizing formats, handling missing values     |
-| `Churn Prediction`        | Basic ML model to identify potential churners      |
-
----
-
-## 📝 Note
-These workflows were created as part of hands-on practice and academic exercises.  
-They are shared for educational and portfolio demonstration purposes.
+| Project | Title | Description |
+|--------|-------|-------------|
+| [erg_1](./erg_1/) | GroupBy Average | Calculates the average age per marital status from the `bank-full.csv` dataset. |
+| [erg_2](./erg_2/) | Normalization Methods | Demonstrates different normalization techniques using the `Normalizer` node. |
+| [erg_3](./erg_3/) | Ensemble Regression | Combines regression models, calculates MAE/MSE, and creates an ensemble prediction. |
+| [erg_4](./erg_4/) | Ensemble of 3 Models | Based on a provided KNIME workflow; extracts the final Math Formula expression for the ensemble. |
 
 ---
 
-## 📎 Files
-Workflows are saved in `.knwf` format.  
-*You can import them directly into the KNIME Analytics Platform.*
+## 🛠 Technologies
+
+- [KNIME Analytics Platform](https://www.knime.com/)
+- Data preprocessing, grouping, normalization
+- Regression models and metric evaluation
+- Ensemble prediction using Math Formula node
 
 ---
 
-## 👤 Author
-**Mike K.**  
-🔗 More projects: [GitHub](https://github.com/mischa24)  
-📧 Contact: [LinkedIn](https://www.linkedin.com/) *(coming soon)*
+## 📸 Visuals
+
+Each folder contains `.svg` or `.png` images to preview the workflow structure and outputs, without needing to open KNIME.
+
+---
+
+## 📁 Repository Structure
+
+---------------------------------------------------------------
+
+---
+
+## 📌 Notes
+
+These projects follow the structure and content of the coursework materials provided in class.  
+Some include personal implementation or screenshots from partial runs where execution errors occurred.
+
+---
+
+## ✍️ Author
+
+Created as part of hands-on practice with KNIME during academic coursework in data analytics.
+
+****
